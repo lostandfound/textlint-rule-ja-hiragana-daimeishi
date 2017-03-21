@@ -1,0 +1,197 @@
+message: ひらがなで表記したほうが読みやすい代名詞
+dict:
+  - expected: あそこ
+    extensions: {}
+    tokens:
+      - surface_form: 彼処
+        pos: 名詞
+        pos_detail_1: 代名詞
+        pos_detail_2: 一般
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 彼処
+        reading: アソコ
+        pronunciation: アソコ
+  - expected: どこ
+    extensions: {}
+    tokens:
+      - surface_form: 何処
+        pos: 名詞
+        pos_detail_1: 代名詞
+        pos_detail_2: 一般
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 何処
+        reading: ドコ
+        pronunciation: ドコ
+  - expected: いずこ
+    extensions: {}
+    tokens:
+      - surface_form: 何処
+        pos: 名詞
+        pos_detail_1: 代名詞
+        pos_detail_2: 一般
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 何処
+        reading: イズコ
+        pronunciation: イズコ
+  - expected: あなた
+    extensions: {}
+    tokens:
+      - surface_form: 貴方
+        pos: 名詞
+        pos_detail_1: 代名詞
+        pos_detail_2: 一般
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 貴方
+        reading: アナタ
+        pronunciation: アナタ
+  - expected: いつ
+    extensions: {}
+    tokens:
+      - surface_form: 何時
+        pos: 名詞
+        pos_detail_1: 代名詞
+        pos_detail_2: 一般
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 何時
+        reading: イツ
+        pronunciation: イツ
+  - expected: これ
+    extensions: {}
+    tokens:
+      - surface_form: 之
+        pos: 名詞
+        pos_detail_1: 代名詞
+        pos_detail_2: 一般
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 之
+        reading: コレ
+        pronunciation: コレ
+  - expected: いずれ
+    extensions: {}
+    tokens:
+      - surface_form: 何れ
+        pos: 名詞
+        pos_detail_1: 代名詞
+        pos_detail_2: 一般
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 何れ
+        reading: イズレ
+        pronunciation: イズレ
+  - expected: いつのまにか
+    extensions: {}
+    tokens:
+      - surface_form: 何時のまにか
+        pos: 副詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 何時のまにか
+        reading: イツノマニカ
+        pronunciation: イツノマニカ
+  - expected: いつぞや
+    extensions: {}
+    tokens:
+      - surface_form: 何時ぞや
+        pos: 副詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 何時ぞや
+        reading: イツゾヤ
+        pronunciation: イツゾヤ
+  - expected: いつも
+    extensions: {}
+    tokens:
+      - surface_form: 何時も
+        pos: 副詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 何時も
+        reading: イツモ
+        pronunciation: イツモ
+  - expected: いつしか
+    extensions: {}
+    tokens:
+      - surface_form: 何時しか
+        pos: 副詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 何時しか
+        reading: イツシカ
+        pronunciation: イツシカ
+  - expected: いつのまに
+    extensions: {}
+    tokens:
+      - surface_form: 何時のまに
+        pos: 副詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 何時のまに
+        reading: イツノマニ
+        pronunciation: イツノマニ
+  - expected: いつかしら
+    extensions: {}
+    tokens:
+      - surface_form: 何時かしら
+        pos: 副詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 何時かしら
+        reading: イツカシラ
+        pronunciation: イツカシラ
+  - expected: いつの間にか
+    extensions: {}
+    tokens:
+      - surface_form: 何時の間にか
+        pos: 副詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 何時の間にか
+        reading: イツノマニカ
+        pronunciation: イツノマニカ
+  - expected: いつの間に
+    extensions: {}
+    tokens:
+      - surface_form: 何時の間に
+        pos: 副詞
+        pos_detail_1: 一般
+        pos_detail_2: '*'
+        pos_detail_3: '*'
+        conjugated_type: '*'
+        conjugated_form: '*'
+        basic_form: 何時の間に
+        reading: イツノマニ
+        pronunciation: イツノマニ
